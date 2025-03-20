@@ -1,0 +1,65 @@
+.container {
+
+    background-image: url(360_F_1240190790_QWjl70QcgoHeF7kKYdDbwoP72fgLF5jz.webp);
+    height: 600px;
+    width: 100%;
+    
+   
+
+}
+
+a {
+    margin-left: 25px;
+    cursor: pointer;
+    transition: 2s;
+
+}
+
+a:hover {
+    color: blue;
+}
+
+.head1 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.para {
+    color: white;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.button {
+    margin: 20px;
+    padding: 22px;
+}
+
+.button1 {
+    margin-left: 400px;
+    border-radius: 40px;
+    padding: 20px;
+    border: none;
+    color: aqua;
+    background-color: blue;
+}
+
+#button1:hover{
+    color: black;
+  background-color: brown;
+    
+}
+
+.button2 {
+    margin-left: 400px;
+    border-radius: 40px;
+    padding: 20px;
+    border: none;
+}
+
+#button2:hover{
+    color: black;
+    background-color: red;
+}
